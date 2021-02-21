@@ -1,5 +1,5 @@
 # conpra
-Solutions for the assignments for the Practical Course Algorithms for Programming Contests WS2020/21
+Assignments for the Practical Course Algorithms for Programming Contests WS2020/21
 
 The practical course consisted of weekly programming assignments covering the following topics (non-exhaustive list): 
 
