@@ -3,7 +3,7 @@ Solutions for the assignments for the Practical Course Algorithms for Programmin
 
 The practical course consisted of weekly programming assignments covering the following topics (non-exhaustive list): 
 
-1. Data structures (Union Find, Binary Search, Graphs)
+1. Data structures (Union Find, Binary Search)
 2. Graphs, Minimum Spanning Trees (Kruskal, Prim), DFS, BFS, Topological Sort
 3. Shortest Paths (Dijkstra, Bellman-Ford, Floyd-Warshall, Longest Path in DAG)
 4. Maximum Flow (Ford-Fulkerson, Edmonds-Karp, Dinic, Push-Relabel)
